@@ -1,6 +1,5 @@
-Name:		Dikshit vig
-B-Number:	B00708849
-Email:		dvig1@binghamton.edu
 
-Add text here as needed.
+In prj1-sol, used Nodejs to develop command line program to add new documents and search for list of documents which contain a given word. 
+Used memory to store data.
+
 
