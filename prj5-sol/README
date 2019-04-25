@@ -1,6 +1,8 @@
-Name:		Dikshit vig
-B-Number:	B00708849
-Email:		dvig1@binghamton.edu
+
+In prj5-sol, used react.js to make a one page app where one can upload new documents and search for existing documents using keyword search. 
+Basically, it calls the specific web services which further calls the functions to retrieve or put data into database.
+
+The components folder contains main jsx files like add.jsx, content.jsx, docs.jsx, search.jsx.
 
 
 
