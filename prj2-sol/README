@@ -1,6 +1,1 @@
-Name:		Dikshit vig
-B-Number:	B00708849
-Email:		dvig1@binghamton.edu
-
-Add text here as needed.
-
+In prj2-sol, did the same thing as in prj1-sol but used mongoDB database to store data instead of memory.
